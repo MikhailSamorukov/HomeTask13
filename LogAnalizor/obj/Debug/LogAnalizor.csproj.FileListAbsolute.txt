@@ -1,0 +1,6 @@
+D:\Downloads\Task\LogAnalizor\bin\Debug\LogAnalizor.exe.config
+D:\Downloads\Task\LogAnalizor\bin\Debug\LogAnalizor.exe
+D:\Downloads\Task\LogAnalizor\bin\Debug\LogAnalizor.pdb
+D:\Downloads\Task\LogAnalizor\obj\Debug\LogAnalizor.csprojResolveAssemblyReference.cache
+D:\Downloads\Task\LogAnalizor\obj\Debug\LogAnalizor.exe
+D:\Downloads\Task\LogAnalizor\obj\Debug\LogAnalizor.pdb
